@@ -1,0 +1,17 @@
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.exe
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.deps.json
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.dll
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\bin\Debug\net10.0-windows\Tarea.pdb
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.Form1.resources
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.dll
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\refint\Tarea.dll
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.pdb
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\ref\Tarea.dll
+C:\Users\USUARIO\OneDrive\Imágenes\Escritorio\Sesion09\Tarea\Tarea\obj\Debug\net10.0-windows\Tarea.csproj.Up2Date
